@@ -1,0 +1,2 @@
+com/scuttlebuttle/scuttlebuttleregistry/ScuttlebuttleRegistryApplicationTests.java
+ com.scuttlebuttle.scuttlebuttleregistry.ScuttlebuttleRegistryApplicationTests
