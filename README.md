@@ -5,7 +5,7 @@ scuttle-buttle-registry services
 Purpose: To spin up the eureka server which acts as a scuttle buttle registry
 
 Pre-Requisite:
-Need Java 11
+Need Java 11.0.11
 
 Build Steps:
 Step 1:
